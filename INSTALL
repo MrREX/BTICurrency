@@ -1,0 +1,9 @@
+Building BTICurrency
+
+See doc/readme-qt.rst for instructions on building BTICurrency QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BTICurrency.
+
+See doc/build-*.txt for instructions on building BTICurrencyd,
+the intended-for-services, no-graphical-interface, reference
+implementation of BTICurrency.

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BTICurrency
+Comment=BTICurrency P2P Cryptocurrency
+Comment[fr]=BTICurrency, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=BTICurrency, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/BTICurrency-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/BTICurrency;
+Categories=Office;

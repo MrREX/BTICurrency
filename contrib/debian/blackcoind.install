@@ -1,0 +1,2 @@
+debian/bin/BTICurrencyd usr/bin
+src/BTICurrencyd usr/lib/BTICurrency
